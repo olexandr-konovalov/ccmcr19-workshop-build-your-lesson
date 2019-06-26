@@ -89,7 +89,7 @@ Fix URL of the lesson issue tracker
 
 - Main debugging technique: if changes do not appear, use `make serve` and analyse error messages
 
-- Look for more `FIXME` items: `grep -R --include=*.md FIXME *``
+- Look for more `FIXME` items: `grep -R --include=*.md FIXME *`
 
 - Look at [Markdown formatting](http://carpentries.github.io/lesson-example/04-formatting/index.html).
 
